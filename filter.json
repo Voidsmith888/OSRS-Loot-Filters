@@ -2,5 +2,4 @@
     "name": "Voidsmith888's Loot Filters",
     "description": "OSRS Loot Filter",
     "modules": [{ "modulePath": "my_module.json" }]
-
 }
