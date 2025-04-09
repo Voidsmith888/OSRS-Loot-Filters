@@ -1,0 +1,5 @@
+#define VAR_SHOW_ITEMS
+apply (true) {
+    hidden=VAR_SHOW_ITEMS;
+}
+

@@ -1,0 +1,15 @@
+{
+    "name": "Hide Items",
+    "subtitle": "Hides all items",
+    "description": "Hides items",
+    "rs2fPath": "./my_module.rs2f",
+    "inputs": [
+        {
+            "type": "boolean",
+            "macroName": "VAR_SHOW_ITEMS",
+            "label": "Show Items",
+            "default": true
+
+        }
+    ]
+}
